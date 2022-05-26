@@ -16,6 +16,7 @@ namespace ManagementSystem.Controllers
         public IActionResult Index()
         {
             return View();
+            //tellloo gamoooooooooo
         }
 
         public IActionResult Privacy()

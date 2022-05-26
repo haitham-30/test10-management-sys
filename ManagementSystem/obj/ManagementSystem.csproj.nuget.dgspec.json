@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\visual studio c#\\New folder\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj": {}
+    "E:\\visual studio c#\\New folder\\test10-management-sys222\\ManagementSystem\\ManagementSystem.csproj": {}
   },
   "projects": {
-    "E:\\visual studio c#\\New folder\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj": {
+    "E:\\visual studio c#\\New folder\\test10-management-sys222\\ManagementSystem\\ManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\visual studio c#\\New folder\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj",
+        "projectUniqueName": "E:\\visual studio c#\\New folder\\test10-management-sys222\\ManagementSystem\\ManagementSystem.csproj",
         "projectName": "ManagementSystem",
-        "projectPath": "E:\\visual studio c#\\New folder\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj",
+        "projectPath": "E:\\visual studio c#\\New folder\\test10-management-sys222\\ManagementSystem\\ManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Haitham Abass\\.nuget\\packages\\",
-        "outputPath": "E:\\visual studio c#\\New folder\\ManagementSystem\\ManagementSystem\\obj\\",
+        "outputPath": "E:\\visual studio c#\\New folder\\test10-management-sys222\\ManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Haitham Abass\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,7 +115,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X7BIC4z9BgUJqRrfh/yQlskQR+0pWmRY0yI3zouYex0M8iWd/EM1baBYouF9+q5MGe2CMEh+bzmAuPUVd0uCZQ==",
+  "dgSpecHash": "lIcIlE7cX3IIe+cDwttJPukPpGYZyzY/rY6eFIl0L2CqB+8OrpZRBdEDZqMcrf5eggyECY2gIMbVz7b48Z7N9Q==",
   "success": true,
-  "projectFilePath": "E:\\visual studio c#\\New folder\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj",
+  "projectFilePath": "E:\\visual studio c#\\New folder\\test10-management-sys222\\ManagementSystem\\ManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Haitham Abass\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Haitham Abass\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
